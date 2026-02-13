@@ -70,7 +70,7 @@ I'm a **Computer Science student at UC Irvine** with a strong foundation in data
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshsharma25&show_icons=true&theme=radical" alt="Lokesh's GitHub Stats" />
 </div>
 
 ---
