@@ -1,20 +1,27 @@
+<div align="center">
+
 # Hey there! I'm Lokesh 👋
 
-Computer Science student at UC Irvine  
-Interested in Software Engineering, AI, and UI/UX Design  
-Currently building scalable web apps and studying advanced AI concepts
+**Computer Science Student at UC Irvine 🐜** *Software Engineering • Artificial Intelligence • UI/UX Design*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshsharma25)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsharma75382@gmail.com)
+
+---
+
+</div>
 
 ## 🚀 About Me
 
-I'm a Computer Science student at UC Irvine with a strong foundation in data structures, algorithms, systems programming, and artificial intelligence.
+I'm a **Computer Science student at UC Irvine** with a strong foundation in data structures, algorithms, systems programming, and artificial intelligence.
 
-Currently:
-- 🌐 Webmaster at UC Irvine’s Anteater Adventure Club
-- 🧠 Studying MDPs, CSPs, Bayesian Networks, and decision theory
-- 💻 Building modern web applications using Next.js, TypeScript, and React
-- ⚙️ Exploring systems-level programming and memory management
+### 🛠 What I’m up to:
+- 🌐 **Webmaster** at UC Irvine’s Anteater Adventure Club
+- 🧠 **Studying** systems-level programming, memory management, and developing 3D dependable frameworks for AI
+- ✈️ **Building a Next-Gen Trip Planner** — Integrating multiple APIs to provide real-time, cost-optimized travel routes with interactive Mapbox visualizations
+- 💻 **Creating** modern web applications using Next.js, TypeScript, and React
 
-## 🛠 Tech Stack
+---
 
 ## 🛠 Tech Stack
 
@@ -25,7 +32,7 @@ Currently:
         <strong>Languages</strong><br><br>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
       </div>
@@ -43,21 +50,28 @@ Currently:
       <div align="center">
         <strong>Tools</strong><br><br>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
       </div>
     </td>
   </tr>
 </table>
 
+---
+
 ## 📌 Featured Projects
 
-### 🔹 [PROJECT NAME]
-[project description]
+### 🔹 [Next-Gen Trip Planner](https://github.com/YOUR_GITHUB_USERNAME)
+*A search engine project for CS 125 that ranks travel options by cost and preference, featuring an interactive Mapbox UI.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<br />
 
-## 📫 Connect With Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-- LinkedIn: www.linkedin.com/in/lokeshsharma25
-- Email: lokeshsharma75382@gmail.com
+---
+
+<div align="center">
+  Last updated: Feb 2026
+</div>
