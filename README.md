@@ -1,7 +1,7 @@
-# Hi, I'm Lokesh 👋
+# Hey there! I'm Lokesh 👋
 
 Computer Science student at UC Irvine  
-Interested in Software Engineering, AI, and Systems  
+Interested in Software Engineering, AI, and UI/UX Design  
 Currently building scalable web apps and studying advanced AI concepts
 
 ## 🚀 About Me
@@ -36,14 +36,8 @@ Currently:
 
 ## 📌 Featured Projects
 
-### 🔹 AI Planning & MDP Solver
-Implemented value iteration and policy iteration algorithms to compute optimal policies for Markov Decision Processes.
-
-### 🔹 Custom Memory Allocator (C)
-Built an explicit free-list memory allocator with coalescing and address ordering.
-
-### 🔹 Anteater Adventure Club Website
-Designed and deployed a responsive website using Next.js and TypeScript to support club engagement.
+### 🔹 [PROJECT NAME]
+[project description]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
