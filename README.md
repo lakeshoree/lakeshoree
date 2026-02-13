@@ -61,7 +61,10 @@ I'm a **Computer Science student at UC Irvine** with a strong foundation in data
 
 ## 📌 Featured Projects
 
-### 🔹 [Next-Gen Trip Planner](https://github.com/YOUR_GITHUB_USERNAME)
+### 🔹 [Anteater Adventure Club Website](https://github.com/Anteater-Adventure-Club/Website)
+*A full-stack website using Next.js and TypeScript to promote the Anteater Adventure Club @ UCI, whose mission is to make nature as accessible as possible.*
+
+### 🔹 [Next-Gen Trip Planner](https://github.com/Mr-Merp/SuperDosaSearch)
 *A search engine project for CS 125 that ranks travel options by cost and preference, featuring an interactive Mapbox UI.*
 
 <br />
