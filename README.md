@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student at UC Irvine** with experience in data structures, algorithms, systems programming, and artificial intelligence. Always looking to learn and try new tools and technologie!
+I'm a **Computer Science student at UC Irvine** with experience in data structures, algorithms, systems programming, and artificial intelligence. Always looking to learn and try new tools and technologies!
 
 ### 🛠 What I’m up to:
 - 🌐 **Webmaster** at UC Irvine’s Anteater Adventure Club
