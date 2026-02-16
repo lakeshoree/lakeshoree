@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student at UC Irvine** with a strong foundation in data structures, algorithms, systems programming, and artificial intelligence.
+I'm a **Computer Science student at UC Irvine** with experience in data structures, algorithms, systems programming, and artificial intelligence. Always looking to learn and try new tools and technologie!
 
 ### 🛠 What I’m up to:
 - 🌐 **Webmaster** at UC Irvine’s Anteater Adventure Club
@@ -68,7 +68,3 @@ I'm a **Computer Science student at UC Irvine** with a strong foundation in data
 *A search engine project for CS 125 that ranks travel options by cost and preference, featuring an interactive Mapbox UI.*
 
 <br />
-
-<div align="center">
-  Last updated: Feb 2026
-</div>
