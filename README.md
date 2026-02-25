@@ -2,7 +2,7 @@
 
 # Hey there! I'm Lokesh 👋
 
-**Computer Science Student at UC Irvine 🐜** *Software Engineering • Artificial Intelligence • UI/UX Design*
+**Full-Stack Developer & 3rd-Year Computer Science Student** @ UC Irvine
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshsharma25)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsharma75382@gmail.com)
@@ -13,10 +13,14 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student at UC Irvine** with experience in data structures, algorithms, systems programming, and artificial intelligence. Always looking to learn and try new tools and technologies!
+I'm passionate about **Computer Science**, **UI/UX**, and **Artificial Intelligence**, and combining these passions to create the best digital products possible!
+
+Beyond the code, I’m fascinated by **foreign languages**, **art history**. And I’m always looking for ways to weave these influences into my personal projects.
+
+Always eager to learn new technologies and connect with new people. **Let’s get in touch!**
 
 ### 🛠 What I’m up to:
-- 🌐 **Webmaster** at UC Irvine’s Anteater Adventure Club
+- 🌐 **Full-Stack Developer** at UC Irvine’s Anteater Adventure Club
 - 🧠 **Studying** systems-level programming, memory management, and developing 3D dependable frameworks for AI
 - ✈️ **Building a Next-Gen Trip Planner** — Integrating multiple APIs to provide real-time, cost-optimized travel routes with interactive Mapbox visualizations
 - 💻 **Creating** modern web applications using Next.js, TypeScript, and React
