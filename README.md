@@ -15,9 +15,9 @@
 
 I'm passionate about **Computer Science**, **UI/UX**, and **Artificial Intelligence**, and combining these passions to create the best digital products possible!
 
-Beyond the code, I’m fascinated by **foreign languages**, **art history**. And I’m always looking for ways to weave these influences into my personal projects.
+Beyond the code, I’m fascinated by **foreign languages** and **art history**, always looking for ways to weave these influences into my personal projects.
 
-Always eager to learn new technologies and connect with new people. **Let’s get in touch!**
+I'm eager to learn new technologies and connect with new people. **Let’s get in touch!**
 
 ### 🛠 What I’m up to:
 - 🌐 **Full-Stack Developer** at UC Irvine’s Anteater Adventure Club
