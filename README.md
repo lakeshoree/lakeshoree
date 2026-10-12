@@ -21,6 +21,9 @@ I'm eager to learn new technologies and connect with new people. **Let’s get i
 
 ## Featured Projects
 
+### 🔹 [MerryQuery](https://github.com/benneigh/MerryQuery)
+* An AI-powered educational assistant that utilizes retrieval-augmented generation (RAG) to provide students with tailored responses based on course materials. Designed and developed at NC State University*
+
 ### 🔹 [Anteater Adventure Club Website](https://github.com/Anteater-Adventure-Club/Website)
 *A full-stack website using Next.js and TypeScript to promote the Anteater Adventure Club @ UCI, whose mission is to make nature as accessible as possible.*
 
